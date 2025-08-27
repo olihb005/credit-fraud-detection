@@ -1,3 +1,3 @@
 # credit-fraud-detection
 credit-fraud-detection from kaggle dataset
-## goal to use,rever engineer and improve on systems to detected credit fraud
+## goal to use,reverse engineer and improve on existing systems to detected credit fraud
